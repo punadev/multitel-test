@@ -1,0 +1,263 @@
+{
+  "welcome": "Welcome to our website!",
+  "about": {
+    "historyTitle": "Our History",
+    "historyParagraph1": "MULTITEL - Serviços de Telecomunicações, Lda, is an Angolan company operating in the market since 1999, licensed by INACOM to provide data transmission and Internet access services. With shareholders such as PT Ventures, Angola Telecom, and BCI, the company is dedicated to offering business solutions, consulting, maintenance, and telecommunications network management.",
+    "historyParagraph2": "Committed to technological progress and customer satisfaction, MULTITEL values close relationships, focusing on personalized service with local and remote technical support. It has a qualified team of over 100 employees and complements its services with the support of strategic partners.",
+    "missionTitle": "Mission",
+    "missionText": "To contribute to digital inclusion and the development of ICTs in the market through innovative solutions and valuable experiences.",
+    "visionTitle": "Vision",
+    "visionText": "To be recognized as an excellent provider of integrated services in Telecommunications, Technologies, and Information Systems through trustworthy relationships with clients and partners.",
+    "valuesTitle": "Values",
+    "valueInnovation": "Innovation",
+    "valueExcellence": "Excellence",
+    "valueCustomerCloseness": "Customer Closeness",
+    "valueSocialResponsibility": "Social Responsibility",
+    "cultureTitle": "Our Culture",
+    "cultureImg1Alt": "Team working",
+    "cultureImg2Alt": "Team meeting",
+    "cultureParagraph1": "We promote a collaborative and dynamic work environment, where each team member is valued and encouraged to share their unique ideas and experiences.",
+    "cultureParagraph2": "We believe that success is born from the union of diverse talents, mutual respect, and a commitment to excellence in every project we embrace."
+  },
+  "home": {
+    "slide1": {
+      "title": "Connect. Expand. Dominate.",
+      "description": "We design network infrastructures that grow with your business — from installation to ongoing support. Fast, stable, and secure. Just the way it should be.",
+      "cta": "Learn More"
+    },
+    "slide2": {
+      "title": "SmartCity Angola",
+      "description": "Stream without buffering, enjoy clear video calls, and connect the whole house without slowing down. Your family deserves internet that truly delivers."
+    },
+    "slide3": {
+      "title": "A more connected family.",
+      "description": "Unlimited experience for gaming and streaming",
+      "cta": "See Our Plans"
+    }
+  },
+  "navbar": {
+    "quem_somos": "About Us",
+    "servicos_e_produtos": "Services & Products",
+    "multitel_agro": "Multitel Agro",
+    "eventos": "Events",
+    "agro": "Multitel Agro",
+    "empresas": "Business",
+    "residencial": "Residential",
+    "infraestrutura_e_conectividade": "Infrastructure and Connectivity",
+    "fibra_optica": "Fiber Optic",
+    "fibra_optica_desc": "High-speed internet with cutting-edge technology",
+    "v_sat": "V-Sat",
+    "v_sat_desc": "Satellite connectivity for remote areas",
+    "micro_onda": "Microwave",
+    "micro_onda_desc": "Fast and efficient solution for your company",
+    "vpn": "VPN",
+    "vpn_desc": "Network security and privacy",
+    "infraestrutura_de_rede": "Network Infrastructure",
+    "infraestrutura_de_rede_desc": "Complete infrastructure solutions",
+    "voz_fixa": "Fixed Voice",
+    "voz_fixa_desc": "Clear and reliable communication",
+    "servicos_digitais": "Digital Services",
+    "data_center": "Data Center",
+    "data_center_desc": "High availability infrastructure",
+    "servico_de_hosting": "Hosting Service",
+    "servico_de_hosting_desc": "Secure and scalable hosting",
+    "servico_de_email": "Email Service",
+    "servico_de_email_desc": "Professional corporate email",
+    "automacao_e_seguranca": "Automation & Security",
+    "automacao_e_seguranca_desc": "Smart security solutions",
+    "servicos_web": "Web Services",
+    "servicos_web_desc": "Custom web development",
+    "consultorias": "Consulting",
+    "consultorias_desc": "Specialized IT consulting",
+    "cyber_seguranca": "Cyber Security",
+    "smart_city": "Smart City",
+    "voltar": "Back",
+    "selecione_categoria": "Select a category to explore our services",
+    "solucoes_completas": "We offer complete solutions for your company, from infrastructure to digital security",
+    "telefone": "923 165 200"
+  },
+  "eventos": {
+    "titulo": "Our History in Events",
+    "descricao": "Discover the events and achievements that have shaped our journey"
+  },
+  "solutions": {
+    "title": "Solutions",
+    "titleHighlight": "That Change Everything",
+    "heroDescription": "Connect your company to the future with cutting-edge technology, innovation, and security.",
+    "connectivity": {
+      "title": "Connectivity",
+      "description": "Connect your company to the future. Fast, secure, and unlimited connections.",
+      "benefit1": "High-speed internet up to 1Gbps",
+      "benefit2": "Dedicated connection for your company",
+      "benefit3": "24/7 technical support",
+      "benefit4": "99.9% uptime guarantee",
+      "benefit5": "Professional and fast installation"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Ideas that become solutions, solutions that make your business grow.",
+      "benefit1": "Specialized consulting in digital transformation",
+      "benefit2": "Implementation of emerging technologies",
+      "benefit3": "Team training",
+      "benefit4": "Continuous support",
+      "benefit5": "Results analysis"
+    },
+    "digitotal": {
+      "title": "Digitotal",
+      "description": "Digitize your business with smart solutions, everything your company needs to be 100% digital.",
+      "benefit1": "Protection against cyber attacks",
+      "benefit2": "24/7 monitoring",
+      "benefit3": "Automatic data backup",
+      "benefit4": "Advanced firewall",
+      "benefit5": "Regular security updates"
+    },
+    "cybersecurity": {
+      "title": "Cyber Security",
+      "description": "Strong protection for your company's data and future.",
+      "benefit1": "Protection against cyber attacks",
+      "benefit2": "24/7 monitoring",
+      "benefit3": "Automatic data backup",
+      "benefit4": "Advanced firewall",
+      "benefit5": "Regular security updates"
+    },
+    "fiberEnterprise": {
+      "title": "Fiber Enterprise",
+      "description": "1 Gbps (expandable)",
+      "promotion": "Large Companies and Business Groups",
+      "benefit1": "Dedicated link with 99.9% SLA",
+      "benefit2": "Managed network security (firewall, enterprise antivirus)",
+      "benefit3": "Personalized technical support with account manager",
+      "advantage1": "Perfect for operations with multiple departments and branches",
+      "advantage2": "Priority traffic for videoconferences and cloud backups",
+      "advantage3": "Scalable service according to company needs"
+    },
+    "proOffice": {
+      "title": "Pro Office",
+      "description": "Complete solutions for Small Businesses",
+      "benefit1": "High-performance Wi-Fi included",
+      "benefit2": "Dynamic IP with fixed IP option",
+      "benefit3": "Priority technical support with response time up to 6 hours",
+      "advantage1": "Recommended for offices with up to 10 employees",
+      "advantage2": "Allows simultaneous use of online platforms, billing software, CRM, etc.",
+      "advantage3": "Mobile internet (4G) included as backup"
+    },
+    "smartBiz": {
+      "title": "SmartBiz",
+      "description": "Growing Companies",
+      "benefit1": "Symmetrical speed (equal download and upload)",
+      "benefit2": "Fixed IP included",
+      "benefit3": "24/7 technical support",
+      "advantage1": "Ideal for hybrid teams (on-site and remote)",
+      "advantage2": "Perfect for online customer service, e-commerce, and internal servers",
+      "advantage3": "Fast technical support, with on-site visits whenever necessary"
+    },
+    "powerNet": {
+      "title": "PowerNet",
+      "description": "Medium-Sized Companies",
+      "benefit1": "Dedicated link with guaranteed bandwidth",
+      "benefit2": "Remote network management included",
+      "benefit3": "Continuous 24/7 monitoring",
+      "advantage1": "Ideal for environments with many connected devices",
+      "advantage2": "Guaranteed stability for management systems (ERP), VoIP calls, and internal platforms",
+      "advantage3": "Quarterly technical consulting for network optimization"
+    },
+    "startUP": {
+      "title": "StartUP",
+      "description": "Microbusinesses and Startups",
+      "benefit1": "Stable connection for small teams (up to 5 people)",
+      "benefit2": "Free installation",
+      "benefit3": "Technical support 8am-8pm (weekdays)",
+      "advantage1": "Ideal for videoconferences, social networks, and tools like Google Workspace and Zoom",
+      "advantage2": "Affordable price and flexible monthly plan",
+      "advantage3": "Upgrade option as the company grows"
+    },
+    "consultNow": "Consult Now",
+    "muchMoreThanSolutions": "Much more than solutions,",
+    "weDeliverStrategy": "we deliver strategy."
+  },
+  "seguranca": {
+    "hero": {
+      "title": "Complete Information Security",
+      "subtitle": "Keep your business safe with advanced and compliant solutions."
+    },
+    "services": {
+      "cloud": {
+        "title": "Cloud Security",
+        "description": "Comprehensive protection of your cloud assets, ensuring compliance and security in AWS, Azure, and Google Cloud environments."
+      },
+      "mobile": {
+        "title": "Mobile Security",
+        "description": "Custom security solutions for mobile devices, protecting company data on smartphones and tablets."
+      },
+      "outsourcing": {
+        "title": "Outsourcing",
+        "description": "Experienced information security team available for you, helping reduce costs and increase efficiency."
+      },
+      "network": {
+        "title": "Network Security",
+        "description": "Total protection of network infrastructure, with firewalls, IDS/IPS, and 24/7 monitoring."
+      },
+      "endpoint": {
+        "title": "Endpoint Security",
+        "description": "Advanced protection for all devices, preventing threats and malware in real time."
+      },
+      "recovery": {
+        "title": "Technological Recovery Plan",
+        "description": "Strategies and solutions to ensure your business continuity even in the face of security incidents."
+      },
+      "data": {
+        "title": "Data Security",
+        "description": "Protection and management of sensitive data, ensuring compliance with Data Protection Law and other applicable standards."
+      },
+      "forensics": {
+        "title": "Forensic Analysis",
+        "description": "Detailed investigation of security incidents, with collection and analysis of digital evidence."
+      },
+      "pentesting": {
+        "title": "Pentesting",
+        "description": "Comprehensive penetration tests to identify vulnerabilities before they are exploited."
+      },
+      "training": {
+        "title": "Training",
+        "description": "Information security training for your team, promoting a culture of digital protection."
+      },
+      "app": {
+        "title": "Application Security",
+        "description": "Analysis and protection of web and mobile applications, ensuring secure development from the ground up."
+      },
+      "controls": {
+        "title": "Creation and Evaluation of Controls",
+        "description": "Implementation and evaluation of security measures aligned with market best practices."
+      },
+      "dashboards": {
+        "title": "Creation of Interactive Dashboards",
+        "description": "Clear and interactive visualization of security metrics for well-informed decision making."
+      },
+      "policies": {
+        "title": "Creation of Standards and Policies",
+        "description": "Development of security policies tailored to your business needs."
+      },
+      "cloud_assessment": {
+        "title": "Cloud Security Assessment",
+        "description": "Detailed analysis of cloud security, identifying risks and proposing improvements."
+      },
+      "info_security": {
+        "title": "Information Security Solutions",
+        "description": "Implementation of integrated information security solutions adapted to your business reality."
+      },
+      "pen_tests": {
+        "title": "Penetration Testing",
+        "description": "Thorough assessment of vulnerabilities through controlled and ethical intrusion tests."
+      },
+      "risk_management": {
+        "title": "Risk Management",
+        "description": "Identification, analysis, and mitigation of security risks to protect your essential assets."
+      }
+    },
+    "cta": {
+      "title": "Ready to strengthen your business security?",
+      "subtitle": "Contact our team and discover the best solutions to protect your business.",
+      "button": "Request Consultancy"
+    }
+  }
+} 

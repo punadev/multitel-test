@@ -1,0 +1,264 @@
+{
+  "welcome": "Bienvenue sur notre site!",
+  "about": {
+    "historyTitle": "Notre Histoire",
+    "historyParagraph1": "MULTITEL - Serviços de Telecomunicações, Lda, est une entreprise angolaise opérant sur le marché depuis 1999, agréée par l'INACOM pour fournir des services de transmission de données et d'accès à Internet. Avec des actionnaires tels que PT Ventures, Angola Telecom et BCI, l'entreprise se consacre à l'offre de solutions d'affaires, de conseil, de maintenance et de gestion de réseaux de télécommunications.",
+    "historyParagraph2": "Engagée dans le progrès technologique et la satisfaction de ses clients, MULTITEL valorise une relation de proximité, misant sur un service personnalisé avec un support technique local et à distance. Elle dispose d'une équipe qualifiée de plus de 100 collaborateurs et complète ses services avec le soutien de partenaires stratégiques.",
+    "missionTitle": "Mission",
+    "missionText": "Contribuer à l'inclusion numérique et au développement des TIC sur le marché grâce à des solutions innovantes et des expériences de valeur.",
+    "visionTitle": "Vision",
+    "visionText": "Être reconnue comme un fournisseur de services intégrés d'excellence en Télécommunications, Technologies et systèmes d'information grâce à des relations de confiance avec les clients et partenaires.",
+    "valuesTitle": "Valeurs",
+    "valueInnovation": "Innovation",
+    "valueExcellence": "Excellence",
+    "valueCustomerCloseness": "Proximité avec les clients",
+    "valueSocialResponsibility": "Responsabilité Sociale",
+    "cultureTitle": "Notre Culture",
+    "cultureImg1Alt": "Équipe au travail",
+    "cultureImg2Alt": "Réunion d'équipe",
+    "cultureParagraph1": "Nous favorisons un environnement de travail collaboratif et dynamique, où chaque membre de l'équipe est valorisé et encouragé à partager ses idées et expériences uniques.",
+    "cultureParagraph2": "Nous croyons que le succès naît de l'union de talents divers, du respect mutuel et de l'engagement envers l'excellence dans chaque projet que nous entreprenons."
+  },
+  "home": {
+    "slide1": {
+      "title": "Connectez. Développez. Dominez.",
+      "description": "Nous concevons des infrastructures réseau qui évoluent avec votre entreprise — de l’installation à l’assistance. Rapide, stable et sécurisé. Comme il se doit.",
+      "cta": "En savoir plus"
+    },
+    "slide2": {
+      "title": "SmartCity Angola",
+      "description": "L'avenir de l'Angola passe par des villes plus organisées et technologiques. SmartCity apporte des solutions pratiques pour moderniser l'espace urbain et améliorer la vie des citoyens.",
+      "cta": "En savoir plus"
+    },
+    "slide3": {
+      "title": "Une famille plus connectée.",
+      "description": "Regardez vos vidéos sans interruptions, passez des appels vidéo clairs et connectez toute la maison sans perte de vitesse. Offrez à votre famille une connexion qui tient ses promesses.",
+      "cta": "Voir nos offres"
+    }
+  },
+  "navbar": {
+    "quem_somos": "Qui sommes-nous",
+    "servicos_e_produtos": "Services & Produits",
+    "multitel_agro": "Multitel Agro",
+    "eventos": "Événements",
+    "agro": "Multitel Agro",
+    "empresas": "Entreprises",
+    "residencial": "Résidentiel",
+    "infraestrutura_e_conectividade": "Infrastructure et Connectivité",
+    "fibra_optica": "Fibre Optique",
+    "fibra_optica_desc": "Internet haut débit avec technologie de pointe",
+    "vsat": "V-Sat",
+    "vsat_desc": "Connectivité satellite pour les zones isolées",
+    "micro_onda": "Micro-Onde",
+    "micro_onda_desc": "Solution rapide et efficace pour votre entreprise",
+    "vpn": "VPN",
+    "vpn_desc": "Sécurité et confidentialité du réseau",
+    "infraestrutura_de_rede": "Infrastructure Réseau",
+    "infraestrutura_de_rede_desc": "Solutions d'infrastructure complètes",
+    "voz_fixa": "Voix Fixe",
+    "voz_fixa_desc": "Communication claire et fiable",
+    "servicos_digitais": "Services Numériques",
+    "data_center": "Centre de Données",
+    "data_center_desc": "Infrastructure à haute disponibilité",
+    "servico_de_hosting": "Service d'Hébergement",
+    "servico_de_hosting_desc": "Hébergement sécurisé et évolutif",
+    "servico_de_email": "Service Email",
+    "servico_de_email_desc": "Email professionnel d'entreprise",
+    "automacao_e_seguranca": "Automatisation & Sécurité",
+    "automacao_e_seguranca_desc": "Solutions de sécurité intelligentes",
+    "servicos_web": "Services Web",
+    "servicos_web_desc": "Développement web personnalisé",
+    "consultorias": "Conseils",
+    "consultorias_desc": "Conseil informatique spécialisé",
+    "cyber_seguranca": "Cybersécurité",
+    "smart_city": "Smart City",
+    "voltar": "Retour",
+    "selecione_categoria": "Sélectionnez une catégorie pour explorer nos services",
+    "solucoes_completas": "Nous proposons des solutions complètes pour votre entreprise, de l'infrastructure à la sécurité numérique",
+    "telefone": "923 165 200"
+  },
+  "eventos": {
+    "titulo": "Notre histoire à travers les événements",
+    "descricao": "Découvrez les événements et les réalisations qui ont marqué notre parcours"
+  },
+  "solutions": {
+    "title": "Solutions",
+    "titleHighlight": "Qui Changent Tout",
+    "heroDescription": "Connectez votre entreprise au futur avec une technologie de pointe, de l'innovation et de la sécurité.",
+    "connectivity": {
+      "title": "Connectivité",
+      "description": "Connectez votre entreprise au futur. Connexions rapides, sécurisées et illimitées.",
+      "benefit1": "Internet haut débit jusqu'à 1Gbps",
+      "benefit2": "Connexion dédiée pour votre entreprise",
+      "benefit3": "Support technique 24/7",
+      "benefit4": "Garantie de disponibilité de 99,9%",
+      "benefit5": "Installation professionnelle et rapide"
+    },
+    "innovation": {
+      "title": "Innovation",
+      "description": "Des idées qui deviennent des solutions, des solutions qui font grandir votre entreprise.",
+      "benefit1": "Conseil spécialisé en transformation digitale",
+      "benefit2": "Mise en œuvre de technologies émergentes",
+      "benefit3": "Formation des équipes",
+      "benefit4": "Support continu",
+      "benefit5": "Analyse des résultats"
+    },
+    "digitotal": {
+      "title": "Digitotal",
+      "description": "Numérisez votre entreprise avec des solutions intelligentes, tout ce dont votre entreprise a besoin pour être 100% digitale.",
+      "benefit1": "Protection contre les cyberattaques",
+      "benefit2": "Surveillance 24/7",
+      "benefit3": "Sauvegarde automatique des données",
+      "benefit4": "Pare-feu avancé",
+      "benefit5": "Mises à jour de sécurité régulières"
+    },
+    "cybersecurity": {
+      "title": "Cybersécurité",
+      "description": "Protection forte pour les données et l'avenir de votre entreprise.",
+      "benefit1": "Protection contre les cyberattaques",
+      "benefit2": "Surveillance 24/7",
+      "benefit3": "Sauvegarde automatique des données",
+      "benefit4": "Pare-feu avancé",
+      "benefit5": "Mises à jour de sécurité régulières"
+    },
+    "fiberEnterprise": {
+      "title": "Fibre Entreprise",
+      "description": "1 Gbps (extensible)",
+      "promotion": "Grandes entreprises et groupes d'affaires",
+      "benefit1": "Lien dédié avec SLA de 99,9%",
+      "benefit2": "Sécurité réseau gérée (pare-feu, antivirus d'entreprise)",
+      "benefit3": "Support technique personnalisé avec gestionnaire de compte",
+      "advantage1": "Parfait pour les opérations avec plusieurs départements et filiales",
+      "advantage2": "Trafic prioritaire pour les visioconférences et les sauvegardes cloud",
+      "advantage3": "Service évolutif selon les besoins de l'entreprise"
+    },
+    "proOffice": {
+      "title": "Pro Office",
+      "description": "Solutions complètes pour les petites entreprises",
+      "benefit1": "Wi-Fi haute performance inclus",
+      "benefit2": "IP dynamique avec option IP fixe",
+      "benefit3": "Support technique prioritaire avec délai de réponse jusqu'à 6 heures",
+      "advantage1": "Recommandé pour les bureaux jusqu'à 10 employés",
+      "advantage2": "Permet l'utilisation simultanée de plateformes en ligne, logiciels de facturation, CRM, etc.",
+      "advantage3": "Internet mobile (4G) inclus comme sauvegarde"
+    },
+    "smartBiz": {
+      "title": "SmartBiz",
+      "description": "Entreprises en croissance",
+      "benefit1": "Vitesse symétrique (téléchargement et envoi égaux)",
+      "benefit2": "IP fixe incluse",
+      "benefit3": "Support technique 24/7",
+      "advantage1": "Idéal pour les équipes hybrides (présentiel et à distance)",
+      "advantage2": "Parfait pour le service client en ligne, le e-commerce et les serveurs internes",
+      "advantage3": "Support technique rapide, avec visites sur site si nécessaire"
+    },
+    "powerNet": {
+      "title": "PowerNet",
+      "description": "Entreprises de taille moyenne",
+      "benefit1": "Lien dédié avec bande passante garantie",
+      "benefit2": "Gestion réseau à distance incluse",
+      "benefit3": "Surveillance continue 24/7",
+      "advantage1": "Idéal pour les environnements avec de nombreux appareils connectés",
+      "advantage2": "Stabilité garantie pour les systèmes de gestion (ERP), appels VoIP et plateformes internes",
+      "advantage3": "Conseil technique trimestriel pour l'optimisation du réseau"
+    },
+    "startUP": {
+      "title": "StartUP",
+      "description": "Microentreprises et startups",
+      "benefit1": "Connexion stable pour petites équipes (jusqu'à 5 personnes)",
+      "benefit2": "Installation gratuite",
+      "benefit3": "Support technique de 8h à 20h (jours ouvrables)",
+      "advantage1": "Idéal pour visioconférences, réseaux sociaux et outils comme Google Workspace et Zoom",
+      "advantage2": "Prix abordable et forfait mensuel flexible",
+      "advantage3": "Option de mise à niveau à mesure que l'entreprise grandit"
+    },
+    "consultNow": "Consulter Maintenant",
+    "muchMoreThanSolutions": "Bien plus que des solutions,",
+    "weDeliverStrategy": "nous livrons de la stratégie."
+  },
+  "seguranca": {
+    "hero": {
+      "title": "Sécurité de l'information complète",
+      "subtitle": "Gardez votre entreprise en sécurité avec des solutions avancées et conformes."
+    },
+    "services": {
+      "cloud": {
+        "title": "Sécurité Cloud",
+        "description": "Protection complète de vos actifs dans le cloud, garantissant conformité et sécurité sur AWS, Azure et Google Cloud."
+      },
+      "mobile": {
+        "title": "Sécurité Mobile",
+        "description": "Solutions de sécurité personnalisées pour appareils mobiles, protégeant les données de l'entreprise sur smartphones et tablettes."
+      },
+      "outsourcing": {
+        "title": "Externalisation",
+        "description": "Équipe expérimentée en sécurité de l'information à votre disposition, aidant à réduire les coûts et à augmenter l'efficacité."
+      },
+      "network": {
+        "title": "Sécurité Réseau",
+        "description": "Protection totale de l'infrastructure réseau, avec pare-feux, IDS/IPS et surveillance 24/7."
+      },
+      "endpoint": {
+        "title": "Sécurité Endpoint",
+        "description": "Protection avancée de tous les appareils, prévenant les menaces et malwares en temps réel."
+      },
+      "recovery": {
+        "title": "Plan de Reprise Technologique",
+        "description": "Stratégies et solutions pour garantir la continuité de votre activité même en cas d'incidents de sécurité."
+      },
+      "data": {
+        "title": "Sécurité des Données",
+        "description": "Protection et gestion des données sensibles, assurant la conformité avec la loi sur la protection des données et autres normes applicables."
+      },
+      "forensics": {
+        "title": "Analyse Forensique",
+        "description": "Enquête détaillée sur les incidents de sécurité, avec collecte et analyse de preuves numériques."
+      },
+      "pentesting": {
+        "title": "Pentesting",
+        "description": "Tests de pénétration complets pour identifier les vulnérabilités avant qu'elles ne soient exploitées."
+      },
+      "training": {
+        "title": "Formation",
+        "description": "Formation en sécurité de l'information pour votre équipe, favorisant une culture de protection numérique."
+      },
+      "app": {
+        "title": "Sécurité Applicative",
+        "description": "Analyse et protection des applications web et mobiles, assurant un développement sécurisé dès la base."
+      },
+      "controls": {
+        "title": "Création et Évaluation des Contrôles",
+        "description": "Mise en œuvre et évaluation des mesures de sécurité alignées sur les meilleures pratiques du marché."
+      },
+      "dashboards": {
+        "title": "Création de Tableaux de Bord Interactifs",
+        "description": "Visualisation claire et interactive des métriques de sécurité pour une prise de décision éclairée."
+      },
+      "policies": {
+        "title": "Création de Normes et Politiques",
+        "description": "Développement de politiques de sécurité adaptées aux besoins de votre entreprise."
+      },
+      "cloud_assessment": {
+        "title": "Évaluation de la Sécurité Cloud",
+        "description": "Analyse détaillée de la sécurité dans le cloud, identification des risques et proposition d'améliorations."
+      },
+      "info_security": {
+        "title": "Solutions de Sécurité de l'Information",
+        "description": "Mise en œuvre de solutions de sécurité de l'information intégrées et adaptées à la réalité de votre entreprise."
+      },
+      "pen_tests": {
+        "title": "Tests de Pénétration",
+        "description": "Évaluation minutieuse des vulnérabilités par des tests d'intrusion contrôlés et éthiques."
+      },
+      "risk_management": {
+        "title": "Gestion des Risques",
+        "description": "Identification, analyse et atténuation des risques de sécurité pour protéger vos actifs essentiels."
+      }
+    },
+    "cta": {
+      "title": "Prêt à renforcer la sécurité de votre entreprise ?",
+      "subtitle": "Contactez notre équipe et découvrez les solutions les plus adaptées pour protéger votre entreprise.",
+      "button": "Demander une consultation"
+    }
+  }
+} 
